@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edgar</h1>
 <h3 align="center">A Student from Argentina.</h3>
 
-<p align="center">🌱 I’m currently learning Python and Flask</p>
+<p align="center">🌱 I’m currently learning Python ESP32 and Arduino Code</p>
 
 
 <h3 align="center">Languages and Tools:</h3>
